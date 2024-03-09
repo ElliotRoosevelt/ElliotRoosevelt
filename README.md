@@ -3,3 +3,4 @@
 - 🌱 I’m currently learning Python, R, and psychology centered on adolescents/development. 
 - 💞️ I’m looking to collaborate on data visualization and cleaning. 
 - 📫 How to reach me rqc3sa@virginia.edu. 
+- edit
