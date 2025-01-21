@@ -1,0 +1,12 @@
+---
+title: "DataDictionary-spr25-hotdog"
+author: "Elle Park"
+date: "2025-01-21"
+output: html_document
+---
+
+|Column|Description|Potential Responses|
+|---------|-----------|-------------------|
+|Sandwich|Answers the Question: Is a hotdog a sandwich?"|Y or N: "Yes" indicates that the participant believes a hotdog is a sandwich. "No" indicates that the participant believes a hotdog is not a sandwich. |
+|Year     |Answers the Question: What  year are you?|String: "First-Year", "Second-Year", "Third-Year", "Fourth-Year", "Graduate Student"|
+|Source|What survey is the data collected from?|String e.g. "First YikYak Survey"|
