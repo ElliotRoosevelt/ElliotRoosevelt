@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ElliotRoosevelt and I am new to GitHub!
 - 👀 I’m interested in clear and communicative data, and what I can contribute with data science.
-- 🌱 I’m currently learning Python, R, and psychology centered on adolescents/development. 
+- 🌱 I’m currently learning R and psychology centered on adolescents/development. Currently, I am trying to converge the two paths into a path for my future. 
 - 💞️ I’m looking to collaborate on data visualization and cleaning. 
 - 📫 How to reach me rqc3sa@virginia.edu. 
 - edit
